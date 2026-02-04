@@ -3,10 +3,10 @@
 
 int main(int argc, char *argv[])	{
 
-	QApplication app(argc, argv);
+	QApplication app(argc, argv);	//Initializes the GUI
 
-	MainWindow w;
-	w.show();
+	MainWindow w;			//Creates Main Window
+	w.show();			//Shows the Window
 
-	return app.exec();
+	return app.exec();		//Reactions on interaction
 }
