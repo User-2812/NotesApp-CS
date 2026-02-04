@@ -16,7 +16,7 @@ cmake --build ./build
 cmake --install ./build --prefix ./build
 
 ./build/NotesApp
-
+```
 
 ## Falls xcb Error
 ```bash
@@ -51,3 +51,4 @@ export CS_PLUGIN_PATH="$PWD/copperspice/deploy"
 export LD_LIBRARY_PATH=/home/user75/STEMgraph/cpplibs/cs2.1_libs/lib:$LD_LIBRARY_PATH
 
 ./build/NotesApp
+```
