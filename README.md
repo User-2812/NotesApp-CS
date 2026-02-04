@@ -2,7 +2,7 @@
 
 Kleine Notizen-App mit CS
 
-'' Build
+## Build
 
 ```bash
 CS_LIB_PREFIX=$(find ~ -type d -path "*/lib/cmake/CopperSpice")
